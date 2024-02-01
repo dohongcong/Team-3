@@ -1,0 +1,441 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\css\\accesibility.css",
+      "PackagePath": "staticwebassets\\css\\accesibility.css"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\css\\contact-page.css",
+      "PackagePath": "staticwebassets\\css\\contact-page.css"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\css\\facilities.css",
+      "PackagePath": "staticwebassets\\css\\facilities.css"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\css\\global-footer.css",
+      "PackagePath": "staticwebassets\\css\\global-footer.css"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\css\\global-header.css",
+      "PackagePath": "staticwebassets\\css\\global-header.css"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\css\\rooms-and-suites.css",
+      "PackagePath": "staticwebassets\\css\\rooms-and-suites.css"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\img\\Homepage-jumbotron.webp",
+      "PackagePath": "staticwebassets\\img\\Homepage-jumbotron.webp"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\img\\Rectangle 42.webp",
+      "PackagePath": "staticwebassets\\img\\Rectangle 42.webp"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\img\\Rectangle 57.webp",
+      "PackagePath": "staticwebassets\\img\\Rectangle 57.webp"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\img\\Rectangle 75.webp",
+      "PackagePath": "staticwebassets\\img\\Rectangle 75.webp"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\img\\ant-design_play-circle-filled.svg",
+      "PackagePath": "staticwebassets\\img\\ant-design_play-circle-filled.svg"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\img\\bed.png",
+      "PackagePath": "staticwebassets\\img\\bed.png"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\img\\check-square.svg",
+      "PackagePath": "staticwebassets\\img\\check-square.svg"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\img\\clock.svg",
+      "PackagePath": "staticwebassets\\img\\clock.svg"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\img\\coffee.svg",
+      "PackagePath": "staticwebassets\\img\\coffee.svg"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\img\\customer1.webp",
+      "PackagePath": "staticwebassets\\img\\customer1.webp"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\img\\customer2.webp",
+      "PackagePath": "staticwebassets\\img\\customer2.webp"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\img\\customer3.webp",
+      "PackagePath": "staticwebassets\\img\\customer3.webp"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\img\\database.svg",
+      "PackagePath": "staticwebassets\\img\\database.svg"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\img\\facebook.svg",
+      "PackagePath": "staticwebassets\\img\\facebook.svg"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\img\\favicon.webp",
+      "PackagePath": "staticwebassets\\img\\favicon.webp"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\img\\gymnasium.webp",
+      "PackagePath": "staticwebassets\\img\\gymnasium.webp"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\img\\helipad.webp",
+      "PackagePath": "staticwebassets\\img\\helipad.webp"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\img\\hotel-1.webp",
+      "PackagePath": "staticwebassets\\img\\hotel-1.webp"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\img\\hotel-2.webp",
+      "PackagePath": "staticwebassets\\img\\hotel-2.webp"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\img\\hotel-3.webp",
+      "PackagePath": "staticwebassets\\img\\hotel-3.webp"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\img\\hotel-4-large.webp",
+      "PackagePath": "staticwebassets\\img\\hotel-4-large.webp"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\img\\hotel-5.webp",
+      "PackagePath": "staticwebassets\\img\\hotel-5.webp"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\img\\hotel-6.webp",
+      "PackagePath": "staticwebassets\\img\\hotel-6.webp"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\img\\instagram.svg",
+      "PackagePath": "staticwebassets\\img\\instagram.svg"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\img\\mail.svg",
+      "PackagePath": "staticwebassets\\img\\mail.svg"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\img\\map-pin.svg",
+      "PackagePath": "staticwebassets\\img\\map-pin.svg"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\img\\phone.svg",
+      "PackagePath": "staticwebassets\\img\\phone.svg"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\img\\restaurants.webp",
+      "PackagePath": "staticwebassets\\img\\restaurants.webp"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\img\\star hotels logo.png",
+      "PackagePath": "staticwebassets\\img\\star hotels logo.png"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\img\\swimming_pool.webp",
+      "PackagePath": "staticwebassets\\img\\swimming_pool.webp"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\img\\telephone.webp",
+      "PackagePath": "staticwebassets\\img\\telephone.webp"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\img\\twitter.svg",
+      "PackagePath": "staticwebassets\\img\\twitter.svg"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\img\\video link.webp",
+      "PackagePath": "staticwebassets\\img\\video link.webp"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\img\\wifi.svg",
+      "PackagePath": "staticwebassets\\img\\wifi.svg"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\js\\switchRooms.js",
+      "PackagePath": "staticwebassets\\js\\switchRooms.js"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\js\\toggleHamburger.js",
+      "PackagePath": "staticwebassets\\js\\toggleHamburger.js"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\InClass\\SEM3\\nodejs_learn\\class6\\MvcMovie\\MvcMovie\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MvcMovie.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MvcMovie.props",
+      "PackagePath": "build\\MvcMovie.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MvcMovie.props",
+      "PackagePath": "buildMultiTargeting\\MvcMovie.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MvcMovie.props",
+      "PackagePath": "buildTransitive\\MvcMovie.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
